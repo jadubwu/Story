@@ -1,1 +1,3 @@
-Now is the time for all good developers to get a nice raise
+Now is the time for all good developers to get a nice raise.
+
+The best time to learn Git is five years ago.
