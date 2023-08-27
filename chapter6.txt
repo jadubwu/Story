@@ -1,1 +1,1 @@
-Success! Visual Studio is not the default editor for txt files
+Success! Visual Studio is now the default editor for txt files
