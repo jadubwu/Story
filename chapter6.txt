@@ -1,1 +1,3 @@
 Success! Visual Studio is now the default editor for txt files
+
+It was the best of editors, it was the worst of editors.
