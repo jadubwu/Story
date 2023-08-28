@@ -1,2 +1,4 @@
-1 Intro
-2 Preamble
+Dedications
+Intro
+Preamble
+Chapter 1 Summary
