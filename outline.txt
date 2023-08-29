@@ -3,3 +3,4 @@ Intro
 Preamble
 Chapter 1 Summary
 Chapter 2 Summary
+Chapter 3 Summary
