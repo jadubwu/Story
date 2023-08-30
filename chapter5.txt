@@ -1,1 +1,2 @@
 I hope that code is my editor now
+use `code` to force file to be opened by vs 
